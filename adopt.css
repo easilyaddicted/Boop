@@ -1,0 +1,105 @@
+a:link {
+  font-size: 20px;
+  padding: 10px 25px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.adoption{
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+
+.boop {
+  font-family: "Montserrat";
+  color: white;
+}
+.pet-adoption_post {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 60px;
+    margin-right: 18px;
+    margin-top: 50px;
+    padding-top: 5px;
+    padding-bottom: 100px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 1px solid #555;
+    border-radius: 5px;
+}
+.pet-adoption_post h2 a {
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-bottom: 1px dotted #ddd;
+    color: #6c9d06;
+    font-weight: normal;
+}
+.pet-adoption_post .img {
+    margin: auto;
+    text-align: center;
+}
+
+.dogown {
+
+  width: 70vw;
+  height: 45vw;
+  margin: 40px 0;
+}
+
+.footer{
+  height: 135px;
+  background-color: #A3E0DD;
+  padding-top: 20px;
+  color: white;
+  padding-left: 20px;
+  text-align: center;
+
+}
+
+.foots{
+  text-decoration: none;
+  color: white;
+
+}
+.foots:active,.foots:hover{
+  text-decoration: none;
+  color: white;
+}
+
+.line {
+  text-align: center;
+}
+
+.nav-link:hover {
+  background-color: #66CDAA;
+  padding: 10px 25px;
+}
+
+.outer-line {
+  width: 10%;
+  border-bottom: 1px solid black;
+}
+
+
+.owner {
+  padding-top: 40px;
+  color: #A3E0DD;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+#title {
+  padding: 1% 0px;
+  height: 100px;
+  background-color: #A3E0DD;
+}

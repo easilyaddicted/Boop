@@ -1,0 +1,130 @@
+a:link {
+  font-size: 20px;
+  padding: 10px 25px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.boop {
+  font-family: "Montserrat";
+  color: white;
+}
+
+.detail{
+  text-decoration: none;
+}
+.detail:active,.detail:hover{
+  text-decoration: none;
+}
+
+.dogown {
+  width: 80vw;
+  height: 40vw;
+  margin: 70px 0px;
+}
+
+.footer{
+  height: 135px;
+  background-color: #A3E0DD;
+  padding-top: 20px;
+  color: white;
+  padding-left: 20px;
+  text-align: center;
+
+}
+
+.foots{
+  text-decoration: none;
+  color: white;
+
+}
+.foots:active,.foots:hover{
+  text-decoration: none;
+  color: white;
+}
+
+.head {
+  text-align: center;
+  font-family: "plex" sans-serif;
+  font-weight: 400;
+  text-transform: none;
+  font-size: 17px;
+
+}
+
+.heads {
+  font-family: "DIN Neuzeit Grotesk", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  color: #454545;
+}
+
+.info1{
+  font-family: "zorus serif";
+  color: #004d4d;
+}
+
+.info2{
+  font-family: "zorus serif";
+  color: #004d4d;
+  text-align:left;
+  padding: 0px 40px;
+  margin-left: 50px;
+
+
+}
+
+.item{
+  margin-bottom: 120px;
+}
+
+.line {
+  text-align: center;
+}
+
+.links {
+  text-decoration: none;
+  color: #454545;
+}
+
+.main{
+  font-family: "bobber";
+  color:#505050;
+}
+
+.nav-link:hover {
+  background-color: #66CDAA;
+  padding: 10px 25px;
+}
+
+.outer-line {
+  width: 10%;
+  border-bottom: 1px solid black;
+}
+
+.owner {
+  color: #A3E0DD;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.prod {
+  width: 50vw;
+  height: 48vw;
+}
+
+.shop {
+  font-family: "Nunito", sans-serif;
+  text-shadow: 1px 1px black;
+}
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#title {
+  padding: 1% 0px;
+  height: 100px;
+  background-color: #A3E0DD;
+}
