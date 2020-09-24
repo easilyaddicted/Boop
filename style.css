@@ -14,10 +14,11 @@ a:link{
 
 .always
 {
-  margin-left: auto;
-  margin-right: auto;
   font-size-adjust: auto;
   white-space:nowrap;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
@@ -52,8 +53,11 @@ a:link{
 }
 
 .images{
-  height: 800px;
+  height: 50vw;
   width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .lets
@@ -92,20 +96,18 @@ span {
   font-family:"Nunito", sans-serif;
   color: #A3E0DD;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   text-shadow: 1px 1px black;
-  padding: 40px 0px;
 
 }
 .show1{
-  padding-left: 6.25em;
-  padding-bottom:20px;
+  padding-left: 100px;
 }
 .show1 img{
   border-radius: 100%;
   width: 200px;
   height:200px;
+  padding: 20px 0;
 }
 
 .started{
