@@ -82,10 +82,6 @@ a:link{
 
 }
 
-span {
-  display: inline-block;
-  vertical-align: middle;
-}
 
 .outer-line {
   width: 10%;
@@ -101,7 +97,8 @@ span {
 
 }
 .show1{
-  padding-left: 100px;
+  text-align:center;
+
 }
 .show1 img{
   border-radius: 100%;
@@ -109,6 +106,13 @@ span {
   height:200px;
   padding: 20px 0;
 }
+
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
 
 .started{
   padding-top: 60px;
